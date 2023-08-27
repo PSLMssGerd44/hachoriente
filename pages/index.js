@@ -50,6 +50,10 @@ export default function Home() {
             <h3>Ocio y vocación &rarr;</h3>
             <p>Conecta contigo mismo como más te guste y descúbrete mientras disfrutas.</p>
           </a>
+          <a href="/posts/ocio-vocacion" className={styles.card}>
+            <h3>¡Contribuye! &rarr;</h3>
+            <p>Ayúdanos a llegar a más personas. Si conoces de alguna página útil, envía este formulario .</p>
+          </a>
 
         </div>
       </main>
